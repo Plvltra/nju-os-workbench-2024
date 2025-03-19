@@ -4,4 +4,4 @@
 !Makefile
 !*.c
 !*.h
-!*.vscode
+!.vscode/*

@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "am.h": "c",
+        "klib-macros.h": "c",
+        "platform.h": "c",
+        "res.h": "c",
+        "klib.h": "c",
+        "stdlib.h": "c",
+        "typeinfo": "c",
+        "stdint.h": "c",
+        "pthread.h": "c",
+        "common.h": "c",
+        "kernel.h": "c",
+        "pmm.h": "c",
+        "type_traits": "c",
+        "thread.h": "c",
+        "spinlock.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "cstdlib": "c",
+        "dlfcn.h": "c"
+    },
+    "makefile.makefilePath": "${workspaceFolder}/hello/Makefile",
+    "C_Cpp.errorSquiggles": "disabled"
+}

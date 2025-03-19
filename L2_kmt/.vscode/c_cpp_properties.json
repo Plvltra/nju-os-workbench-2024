@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${AM_HOME}/**"
+            ],
+            "defines": [
+                "SIMPLE_PMM",
+                "TRACE_F",
+                // "DEBUG_PRODUCER_CONSUMER",
+                "DEBUG_TTY",
+            ],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64",
+            "configurationProvider": "ms-vscode.makefile-tools"
+        }
+    ],
+    "version": 4
+}
